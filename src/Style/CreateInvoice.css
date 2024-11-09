@@ -1,0 +1,258 @@
+.callout.callout-info {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  padding: 15px;
+}
+
+.invoice {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  padding: 15px;
+}
+
+.company-details {
+  margin-bottom: 1%;
+}
+
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-container input,
+.form-container textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.form-section {
+  margin-right: 2%;
+}
+
+.form-section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-section input {
+  padding: 5px;
+  box-sizing: border-box;
+  
+  margin-bottom: 10px;
+}
+
+.horizontal-fix {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th {
+  background-color: #f8f9fa;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+.table-row {
+  padding: 10px;
+  text-align: left;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.input-cell input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  background: transparent;
+}
+
+.addButton {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.payment-details {
+  margin-top: 1%;
+}
+
+.lead {
+  color: black;
+  font-weight: 100;
+}
+
+.payment-details img {
+  margin-right: 5px;
+}
+
+.well.well-sm {
+  margin-top: 10px;
+}
+
+.table-row th:nth-child(10),
+.table-row th:nth-child(11),
+.table-row th:nth-child(12) {
+  text-align: center;
+}
+
+.custom-datepicker {
+  border: none;
+  background: transparent;
+  width: 90px;
+}
+
+.floatright {
+  float: right;
+}
+
+.custom-select-container {
+  width: 200px;
+  margin-bottom:10px;
+}
+
+.custom-select-menu {
+  width: 300px;
+}
+
+.to-words {
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f8f8f8;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.to-words h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+  text-align: center;
+}
+
+.to-words p {
+  font-size: 1.2rem;
+  color: #555;
+  margin: 0;
+  font-weight: bold;
+}
+
+.invoice-datepicker {
+  width: 100%;
+  /* border: 2px solid black; */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+
+.delete-button,
+.upload-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: relative;
+}
+
+.delete-button i {
+  color: red;
+  font-size: 1.5em;
+  transition: transform 0.3s ease;
+}
+
+.upload-button i {
+  color: rgb(19, 200, 212);
+  font-size: 1.5em;
+  transition: transform 0.3s ease;
+}
+
+.delete-button:hover i,
+.upload-button:hover i {
+  transform: rotate(-30deg);
+}
+
+.delete-button:hover i::before,
+.upload-button:hover i::before {
+  transform: rotate(60deg);
+}
+
+/* bank deatils css  */
+.bank-details-form {
+  margin: 10px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.bank-details-form h2 {
+  text-align: center;
+  color: #333;
+}
+
+.floating-label-group {
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.floating-label-group input,
+.floating-label-group textarea {
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.floating-label {
+  font-size: 13px;
+  color: #cccccc;
+  position: absolute;
+  pointer-events: none;
+  top: 9px;
+  left: 12px;
+  transition: all 0.1s ease;
+}
+
+.floating-label-group input:focus ~ .floating-label,
+.floating-label-group input:not(:focus):valid ~ .floating-label,
+.floating-label-group textarea:focus ~ .floating-label,
+.floating-label-group textarea:not(:focus):valid ~ .floating-label {
+  top: -20px;
+  bottom: 0px;
+  left: 0px;
+  font-size: 0.9em;
+  opacity: 1;
+  color: #404040;
+}
+
+.hide-border input{
+  border: none ;
+}

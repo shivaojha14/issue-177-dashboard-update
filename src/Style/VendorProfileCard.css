@@ -1,0 +1,11 @@
+.my-bg {
+  background: #0275d8;
+}
+
+.dropdown-item:hover {
+  color: #007bff;
+}
+
+.dropdown-item:active {
+  background-color: transparent;
+}

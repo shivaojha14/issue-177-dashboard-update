@@ -1,0 +1,18 @@
+/* Ensure custom container uses flexbox to align items in a row */
+#buttons-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px; /* Adjust space between elements */
+  }
+  
+  /* Optional: Adjust the appearance of search box and buttons */
+  .dataTables_filter {
+    margin-right: 10px; /* Space between search box and buttons */
+  }
+  
+  .dataTables_buttons {
+    display: flex;
+    gap: 10px; /* Space between buttons */
+  }
+  

@@ -1,0 +1,1556 @@
+{
+	"countries": [
+		{
+            "country_code": "AFG",
+            "country_name": "Afghanistan",
+            "who_region": "EMR",
+            "income_group": "Low",
+            "currency_name": "Afghanistan Afghani",
+            "currency_code": "AFN"
+        },
+        {
+            "country_code": "ALB",
+            "country_name": "Albania",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Albanian Lek",
+            "currency_code": "ALL"
+        },
+        {
+            "country_code": "DZA",
+            "country_name": "Algeria",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "Algerian Dinar",
+            "currency_code": "DZD"
+        },
+        {
+            "country_code": "AND",
+            "country_name": "Andorra",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "AGO",
+            "country_name": "Angola",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Angolan Kwanza",
+            "currency_code": "AON"
+        },
+        {
+            "country_code": "ATG",
+            "country_name": "Antigua andBarbuda",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "Eastern CaribbeanDollar",
+            "currency_code": "XCD"
+        },
+        {
+            "country_code": "ARG",
+            "country_name": "Argentina",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Argentine Peso",
+            "currency_code": "ARS"
+        },
+        {
+            "country_code": "ARM",
+            "country_name": "Armenia",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Dram",
+            "currency_code": "AMD"
+        },
+        {
+            "country_code": "AUS",
+            "country_name": "Australia",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "Australian Dollar",
+            "currency_code": "AUD"
+        },
+        {
+            "country_code": "AUT",
+            "country_name": "Austria",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "AZE",
+            "country_name": "Azerbaijan",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Manat",
+            "currency_code": "AZN"
+        },
+        {
+            "country_code": "BHS",
+            "country_name": "Bahamas",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "Bahamian Dollar",
+            "currency_code": "BSD"
+        },
+        {
+            "country_code": "BHR",
+            "country_name": "Bahrain",
+            "who_region": "EMR",
+            "income_group": "High",
+            "currency_name": "Baharaini Dinar",
+            "currency_code": "BHD"
+        },
+        {
+            "country_code": "BGD",
+            "country_name": "Bangladesh",
+            "who_region": "SEAR",
+            "income_group": "Lower-middle",
+            "currency_name": "Taka",
+            "currency_code": "BDT"
+        },
+        {
+            "country_code": "BRB",
+            "country_name": "Barbados",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "BarbadosDollar",
+            "currency_code": "BBD"
+        },
+        {
+            "country_code": "BLR",
+            "country_name": "Belarus",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Belarusian Ruble",
+            "currency_code": "BYN"
+        },
+        {
+            "country_code": "BEL",
+            "country_name": "Belgium",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "BLZ",
+            "country_name": "Belize",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "BelizeDollar",
+            "currency_code": "BZD"
+        },
+        {
+            "country_code": "BEN",
+            "country_name": "Benin",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFAFranc",
+            "currency_code": "XOF"
+        },
+        {
+            "country_code": "BTN",
+            "country_name": "Bhutan",
+            "who_region": "SEAR",
+            "income_group": "Lower-middle",
+            "currency_name": "Ngultrum",
+            "currency_code": "BTN"
+        },
+        {
+            "country_code": "BOL",
+            "country_name": "Bolivia PlurinationalStates of",
+            "who_region": "AMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Boliviano",
+            "currency_code": "BOB"
+        },
+        {
+            "country_code": "BIH",
+            "country_name": "Bosnia and Herzegovina",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "ConvertibleMark",
+            "currency_code": "BAM"
+        },
+        {
+            "country_code": "BWA",
+            "country_name": "Botswana",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "BotswanaPula",
+            "currency_code": "BWP"
+        },
+        {
+            "country_code": "BRA",
+            "country_name": "Brazil",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Brazilian Real",
+            "currency_code": "BRL"
+        },
+        {
+            "country_code": "BRN",
+            "country_name": "Brunei Darussalam",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "BruneiDollar",
+            "currency_code": "BND"
+        },
+        {
+            "country_code": "BGR",
+            "country_name": "Bulgaria",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Bulgarian Lev",
+            "currency_code": "BGL"
+        },
+        {
+            "country_code": "BFA",
+            "country_name": "Burkina Faso",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XOF"
+        },
+        {
+            "country_code": "BDI",
+            "country_name": "Burundi",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "BurundiFranc",
+            "currency_code": "BIF"
+        },
+        {
+            "country_code": "CPV",
+            "country_name": "CaboVerde Republicof",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "CapeVerde Escudo",
+            "currency_code": "CVE"
+        },
+        {
+            "country_code": "KHM",
+            "country_name": "Cambodia",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Riel",
+            "currency_code": "KHR"
+        },
+        {
+            "country_code": "CMR",
+            "country_name": "Cameroon",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "CFAFranc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "CAN",
+            "country_name": "Canada",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "Canadian Dollar",
+            "currency_code": "CAD"
+        },
+        {
+            "country_code": "CAF",
+            "country_name": "CentralAfrican Republic",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "TCD",
+            "country_name": "Chad",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "CHL",
+            "country_name": "Chile",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "Chilean Peso",
+            "currency_code": "CLP"
+        },
+        {
+            "country_code": "CHN",
+            "country_name": "China",
+            "who_region": "WPR",
+            "income_group": "Upper-middle",
+            "currency_name": "Yuan Renminbi",
+            "currency_code": "CNY"
+        },
+        {
+            "country_code": "COL",
+            "country_name": "Colombia",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Colombian Peso",
+            "currency_code": "COP"
+        },
+        {
+            "country_code": "COM",
+            "country_name": "Comoros",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Comoros Franc",
+            "currency_code": "KMF"
+        },
+        {
+            "country_code": "COG",
+            "country_name": "Congo",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "CFAFranc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "COK",
+            "country_name": "CookIslands",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "New Zealand Dollar",
+            "currency_code": "NZD"
+        },
+        {
+            "country_code": "CRI",
+            "country_name": "CostaRica",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Costa Rican Colone",
+            "currency_code": "CRC"
+        },
+        {
+            "country_code": "CIV",
+            "country_name": "Côte d'Ivoire",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "CFA Franc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "HRV",
+            "country_name": "Croatia",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Kuna",
+            "currency_code": "HRK"
+        },
+        {
+            "country_code": "CUB",
+            "country_name": "Cuba",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "CubanPeso",
+            "currency_code": "CUP"
+        },
+        {
+            "country_code": "CYP",
+            "country_name": "Cyprus",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "CZE",
+            "country_name": "Czech Republic",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "PRK",
+            "country_name": "DemocraticPeople'sRepublicofKorea",
+            "who_region": "SEAR",
+            "income_group": "Low",
+            "currency_name": "North KoreanWon",
+            "currency_code": "KPW"
+        },
+        {
+            "country_code": "COD",
+            "country_name": "DemocraticRepublicoftheCongo",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CongoleseFranc",
+            "currency_code": "CDF"
+        },
+        {
+            "country_code": "DNK",
+            "country_name": "Denmark",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Danish Krone",
+            "currency_code": "DKK"
+        },
+        {
+            "country_code": "DJI",
+            "country_name": "Djibouti",
+            "who_region": "EMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Djibouti Franc",
+            "currency_code": "DJF"
+        },
+        {
+            "country_code": "DMA",
+            "country_name": "Dominica",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Eastern CaribbeanDollar",
+            "currency_code": "XCD"
+        },
+        {
+            "country_code": "DOM",
+            "country_name": "Dominican Republic",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Dominican Peso",
+            "currency_code": "DOP"
+        },
+        {
+            "country_code": "ECU",
+            "country_name": "Ecuador",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "US Dollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "EGY",
+            "country_name": "Egypt",
+            "who_region": "EMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Egyptian Pound",
+            "currency_code": "EGP"
+        },
+        {
+            "country_code": "SLV",
+            "country_name": "ElSalvador",
+            "who_region": "AMR",
+            "income_group": "Lower-middle",
+            "currency_name": "USDollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "GNQ",
+            "country_name": "Equatorial Guinea",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "CFA Franc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "ERI",
+            "country_name": "Eritrea",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Nakfa",
+            "currency_code": "ERN"
+        },
+        {
+            "country_code": "EST",
+            "country_name": "Estonia",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "SWZ",
+            "country_name": "Eswatini",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Lilangeni",
+            "currency_code": "SZL"
+        },
+        {
+            "country_code": "ETH",
+            "country_name": "Ethiopia",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Ethiopian Birr",
+            "currency_code": "ETB"
+        },
+        {
+            "country_code": "FJI",
+            "country_name": "Fiji",
+            "who_region": "WPR",
+            "income_group": "Upper-middle",
+            "currency_name": "Fiji Dollar",
+            "currency_code": "FJD"
+        },
+        {
+            "country_code": "FIN",
+            "country_name": "Finland",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "FRA",
+            "country_name": "France",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "GAB",
+            "country_name": "Gabon",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "CFA Franc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "GMB",
+            "country_name": "Gambia",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Gambian Dalasi",
+            "currency_code": "GMD"
+        },
+        {
+            "country_code": "GEO",
+            "country_name": "Georgia",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Lari",
+            "currency_code": "GEL"
+        },
+        {
+            "country_code": "DEU",
+            "country_name": "Germany",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "GHA",
+            "country_name": "Ghana",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Ghana Cedi",
+            "currency_code": "GHC"
+        },
+        {
+            "country_code": "GRC",
+            "country_name": "Greece",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "GRD",
+            "country_name": "Grenada",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Eastern Caribbean Dollar",
+            "currency_code": "XCD"
+        },
+        {
+            "country_code": "GTM",
+            "country_name": "Guatemala",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Guatemalan Quetzal",
+            "currency_code": "GTQ"
+        },
+        {
+            "country_code": "GIN",
+            "country_name": "Guinea",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Guinea Franc",
+            "currency_code": "GNF"
+        },
+        {
+            "country_code": "GNB",
+            "country_name": "Guinea-Bissau",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XAF"
+        },
+        {
+            "country_code": "GUY",
+            "country_name": "Guyana",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Guyana Dollar",
+            "currency_code": "GYD"
+        },
+        {
+            "country_code": "HTI",
+            "country_name": "Haiti",
+            "who_region": "AMR",
+            "income_group": "Low",
+            "currency_name": "Haitian Gourde",
+            "currency_code": "HTG"
+        },
+        {
+            "country_code": "HND",
+            "country_name": "Honduras",
+            "who_region": "AMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Honduran Lempira",
+            "currency_code": "HNL"
+        },
+        {
+            "country_code": "HUN",
+            "country_name": "Hungary",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Hungarian Forint",
+            "currency_code": "HUF"
+        },
+        {
+            "country_code": "ISL",
+            "country_name": "Iceland",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Icelandic Krona",
+            "currency_code": "ISK"
+        },
+        {
+            "country_code": "IND",
+            "country_name": "India",
+            "who_region": "SEAR",
+            "income_group": "Lower-middle",
+            "currency_name": "Indian Rupee",
+            "currency_code": "INR"
+        },
+        {
+            "country_code": "IDN",
+            "country_name": "Indonesia",
+            "who_region": "SEAR",
+            "income_group": "Lower-middle",
+            "currency_name": "Indonesian Rupiah",
+            "currency_code": "IDR"
+        },
+        {
+            "country_code": "IRN",
+            "country_name": "Iran",
+            "who_region": "EMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Iranian Rial",
+            "currency_code": "IRR"
+        },
+        {
+            "country_code": "IRQ",
+            "country_name": "Iraq",
+            "who_region": "EMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Iraqi Dinar",
+            "currency_code": "IQD"
+        },
+        {
+            "country_code": "IRL",
+            "country_name": "Ireland",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "ISR",
+            "country_name": "Israel",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "New Sheqel",
+            "currency_code": "ILS"
+        },
+        {
+            "country_code": "ITA",
+            "country_name": "Italy",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "JAM",
+            "country_name": "Jamaica",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Jamaican Dollar",
+            "currency_code": "JMD"
+        },
+        {
+            "country_code": "JPN",
+            "country_name": "Japan",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "Japanese Yen",
+            "currency_code": "JPY"
+        },
+        {
+            "country_code": "JOR",
+            "country_name": "Jordan",
+            "who_region": "EMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Jordanian Dinar",
+            "currency_code": "JOD"
+        },
+        {
+            "country_code": "KAZ",
+            "country_name": "Kazakhstan",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Tenge",
+            "currency_code": "KZT"
+        },
+        {
+            "country_code": "KEN",
+            "country_name": "Kenya",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Kenyan Shilling",
+            "currency_code": "KES"
+        },
+        {
+            "country_code": "KIR",
+            "country_name": "Kiribati",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Australian Dollar",
+            "currency_code": "AUD"
+        },
+        {
+            "country_code": "KWT",
+            "country_name": "Kuwait",
+            "who_region": "EMR",
+            "income_group": "High",
+            "currency_name": "Kuwaiti Dinar",
+            "currency_code": "KWD"
+        },
+        {
+            "country_code": "KGZ",
+            "country_name": "Kyrgyzstan",
+            "who_region": "EUR",
+            "income_group": "Lower-middle",
+            "currency_name": "Som",
+            "currency_code": "KGS"
+        },
+        {
+            "country_code": "LAO",
+            "country_name": "Lao People's Democratic Republic",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Kip",
+            "currency_code": "LAK"
+        },
+        {
+            "country_code": "LVA",
+            "country_name": "Latvia",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "LBN",
+            "country_name": "Lebanon",
+            "who_region": "EMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Lebanese Pound",
+            "currency_code": "LBP"
+        },
+        {
+            "country_code": "LSO",
+            "country_name": "Lesotho",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Lesotho Loti",
+            "currency_code": "LSL"
+        },
+        {
+            "country_code": "LBR",
+            "country_name": "Liberia",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Liberian Dollar",
+            "currency_code": "LRD"
+        },
+        {
+            "country_code": "LBY",
+            "country_name": "Libya",
+            "who_region": "EMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Libyan Dinar",
+            "currency_code": "LYD"
+        },
+        {
+            "country_code": "LTU",
+            "country_name": "Lithuania",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "LUX",
+            "country_name": "Luxembourg",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "MDG",
+            "country_name": "Madagascar",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Malagasy Ariary",
+            "currency_code": "MGA"
+        },
+        {
+            "country_code": "MWI",
+            "country_name": "Malawi",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Malawian Kwacha",
+            "currency_code": "MWK"
+        },
+        {
+            "country_code": "MYS",
+            "country_name": "Malaysia",
+            "who_region": "WPR",
+            "income_group": "Upper-middle",
+            "currency_name": "Ringgit",
+            "currency_code": "MYR"
+        },
+        {
+            "country_code": "MDV",
+            "country_name": "Maldives",
+            "who_region": "SEAR",
+            "income_group": "Upper-middle",
+            "currency_name": "Rufiyaa",
+            "currency_code": "MVR"
+        },
+        {
+            "country_code": "MLI",
+            "country_name": "Mali",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XOF"
+        },
+        {
+            "country_code": "MLT",
+            "country_name": "Malta",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "MHL",
+            "country_name": "Marshall Islands",
+            "who_region": "WPR",
+            "income_group": "Upper-middle",
+            "currency_name": "US Dollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "MRT",
+            "country_name": "Mauritania",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "New Ouguiya",
+            "currency_code": "MRU"
+        },
+        {
+            "country_code": "MUS",
+            "country_name": "Mauritius",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "Mauritius Rupee",
+            "currency_code": "MUR"
+        },
+        {
+            "country_code": "MEX",
+            "country_name": "Mexico",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Mexican Peso",
+            "currency_code": "MXN"
+        },
+        {
+            "country_code": "FSM",
+            "country_name": "Micronesia (Federated States of)",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "US Dollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "MCO",
+            "country_name": "Monaco",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "MNG",
+            "country_name": "Mongolia",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Tugrik",
+            "currency_code": "MNT"
+        },
+        {
+            "country_code": "MNE",
+            "country_name": "Montenegro",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "MAR",
+            "country_name": "Morocco",
+            "who_region": "EMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Moroccan Dirham",
+            "currency_code": "MAD"
+        },
+        {
+            "country_code": "MOZ",
+            "country_name": "Mozambique",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Mozambican Metical",
+            "currency_code": "MZM"
+        },
+        {
+            "country_code": "MMR",
+            "country_name": "Myanmar",
+            "who_region": "SEAR",
+            "income_group": "Lower-middle",
+            "currency_name": "Kyat",
+            "currency_code": "MMK"
+        },
+        {
+            "country_code": "NAM",
+            "country_name": "Namibia",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "Namibian Dollar",
+            "currency_code": "NAD"
+        },
+        {
+            "country_code": "NRU",
+            "country_name": "Nauru",
+            "who_region": "WPR",
+            "income_group": "Upper-middle",
+            "currency_name": "Australian Dollar",
+            "currency_code": "AUD"
+        },
+        {
+            "country_code": "NPL",
+            "country_name": "Nepal",
+            "who_region": "SEAR",
+            "income_group": "Low",
+            "currency_name": "NepaleseRupee",
+            "currency_code": "NPR"
+        },
+        {
+            "country_code": "NLD",
+            "country_name": "Netherlands",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "NZL",
+            "country_name": "New Zealand",
+            "who_region": "WPR",
+            "income_group": "Hight",
+            "currency_name": "New Zealand Dollar",
+            "currency_code": "NZD"
+        },
+        {
+            "country_code": "NIC",
+            "country_name": "Nicaragua",
+            "who_region": "AMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Nicaraguan Cordoba Oro",
+            "currency_code": "NIO"
+        },
+        {
+            "country_code": "NER",
+            "country_name": "Niger",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XOF"
+        },
+        {
+            "country_code": "NGA",
+            "country_name": "Nigeria",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "Naira",
+            "currency_code": "NGN"
+        },
+        {
+            "country_code": "NIU",
+            "country_name": "Niue",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "New Zealand Dollar",
+            "currency_code": "NZD"
+        },
+        {
+            "country_code": "NOR",
+            "country_name": "Norway",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Norway Krone",
+            "currency_code": "NOK"
+        },
+        {
+            "country_code": "OMN",
+            "country_name": "Oman",
+            "who_region": "EMR",
+            "income_group": "High",
+            "currency_name": "Omani Rial",
+            "currency_code": "OMR"
+        },
+        {
+            "country_code": "PAK",
+            "country_name": "Pakistan",
+            "who_region": "EMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Pakistani Rupee",
+            "currency_code": "PKR"
+        },
+        {
+            "country_code": "PLW",
+            "country_name": "Palau",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "US Dollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "PAN",
+            "country_name": "Panama",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "Balboa",
+            "currency_code": "PAB"
+        },
+        {
+            "country_code": "PNG",
+            "country_name": "Papua New Guinea",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Kina",
+            "currency_code": "PGK"
+        },
+        {
+            "country_code": "PRY",
+            "country_name": "Paraguay",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Guarani",
+            "currency_code": "PYG"
+        },
+        {
+            "country_code": "PER",
+            "country_name": "Peru",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "NuevoSol",
+            "currency_code": "PEN"
+        },
+        {
+            "country_code": "PHL",
+            "country_name": "Philippines",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Philippines Peso",
+            "currency_code": "PHP"
+        },
+        {
+            "country_code": "POL",
+            "country_name": "Poland",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Zloty",
+            "currency_code": "PLN"
+        },
+        {
+            "country_code": "PRT",
+            "country_name": "Portugal",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "QAT",
+            "country_name": "Qatar",
+            "who_region": "EMR",
+            "income_group": "High",
+            "currency_name": "Qatar Rial",
+            "currency_code": "QAR"
+        },
+        {
+            "country_code": "KOR",
+            "country_name": "Republic of Korea",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "Won",
+            "currency_code": "KRW"
+        },
+        {
+            "country_code": "MDA",
+            "country_name": "Republic of Moldova",
+            "who_region": "EUR",
+            "income_group": "Lower-middle",
+            "currency_name": "Moldova Leu",
+            "currency_code": "MDL"
+        },
+        {
+            "country_code": "ROU",
+            "country_name": "Romania",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "RomaniaLeu",
+            "currency_code": "RON"
+        },
+        {
+            "country_code": "RUS",
+            "country_name": "Russian Federation",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Rouble",
+            "currency_code": "RUB"
+        },
+        {
+            "country_code": "RWA",
+            "country_name": "Rwanda",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Rwandan Franc",
+            "currency_code": "RWF"
+        },
+        {
+            "country_code": "KNA",
+            "country_name": "Saint Kitts and Nevis",
+            "who_region": "AMR",
+            "income_group": "High",
+            "currency_name": "Eastern Caribbean Dollar",
+            "currency_code": "XCD"
+        },
+        {
+            "country_code": "LCA",
+            "country_name": "Saint Lucia",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Eastern Caribbean Dollar",
+            "currency_code": "XCD"
+        },
+        {
+            "country_code": "VCT",
+            "country_name": "Saint Vincentand the Grenadines",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Eastern Caribbean Dollar",
+            "currency_code": "XCD"
+        },
+        {
+            "country_code": "WSM",
+            "country_name": "Samoa",
+            "who_region": "WPR",
+            "income_group": "Upper-middle",
+            "currency_name": "Tala",
+            "currency_code": "WST"
+        },
+        {
+            "country_code": "SMR",
+            "country_name": "San Marino",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "STP",
+            "country_name": "SaoTome and Principe.",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "New Dobra",
+            "currency_code": "STN"
+        },
+        {
+            "country_code": "SAU",
+            "country_name": "Saudi Arabia",
+            "who_region": "EMR",
+            "income_group": "High",
+            "currency_name": "Saudi Riyal",
+            "currency_code": "SAR"
+        },
+        {
+            "country_code": "SEN",
+            "country_name": "Senegal",
+            "who_region": "AFR",
+            "income_group": "Lower-middle",
+            "currency_name": "CFA Franc",
+            "currency_code": "XOF"
+        },
+        {
+            "country_code": "SRB",
+            "country_name": "Serbia",
+            "who_region": "EUR",
+            "income_group": "Upper-middle",
+            "currency_name": "Serbian Dinar",
+            "currency_code": "RSD"
+        },
+        {
+            "country_code": "SYC",
+            "country_name": "Seychelles",
+            "who_region": "AFR",
+            "income_group": "High",
+            "currency_name": "Seychelles Rupee",
+            "currency_code": "SCR"
+        },
+        {
+            "country_code": "SLE",
+            "country_name": "Sierra Leone",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "Leone",
+            "currency_code": "SLL"
+        },
+        {
+            "country_code": "SGP",
+            "country_name": "Singapore",
+            "who_region": "WPR",
+            "income_group": "High",
+            "currency_name": "Singapore Dollar",
+            "currency_code": "SGD"
+        },
+        {
+            "country_code": "SVK",
+            "country_name": "Slovakia",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "SVN",
+            "country_name": "Slovenia",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "SLB",
+            "country_name": "Solomon Islands",
+            "who_region": "WPR",
+            "income_group": "Lower-middle",
+            "currency_name": "Solomon Dollar",
+            "currency_code": "SBD"
+        },
+        {
+            "country_code": "SOM",
+            "country_name": "Somalia",
+            "who_region": "EMR",
+            "income_group": "Low",
+            "currency_name": "Somalian Shilling",
+            "currency_code": "SOS"
+        },
+        {
+            "country_code": "ZAF",
+            "country_name": "South Africa",
+            "who_region": "AFR",
+            "income_group": "Upper-middle",
+            "currency_name": "Rand",
+            "currency_code": "ZAR"
+        },
+        {
+            "country_code": "SSD",
+            "country_name": "South Sudan",
+            "who_region": "AFR",
+            "income_group": "Low",
+            "currency_name": "South SudanesePound",
+            "currency_code": "SSP"
+        },
+        {
+            "country_code": "ESP",
+            "country_name": "Spain",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Euro",
+            "currency_code": "EUR"
+        },
+        {
+            "country_code": "LKA",
+            "country_name": "Sri Lanka",
+            "who_region": "SEAR",
+            "income_group": "Upper-middle",
+            "currency_name": "Sri Lanka Rupee",
+            "currency_code": "LKR"
+        },
+        {
+            "country_code": "SDN",
+            "country_name": "Sudan",
+            "who_region": "EMR",
+            "income_group": "Lower-middle",
+            "currency_name": "Sudanese Pound",
+            "currency_code": "SDG"
+        },
+        {
+            "country_code": "SUR",
+            "country_name": "Suriname",
+            "who_region": "AMR",
+            "income_group": "Upper-middle",
+            "currency_name": "Surinamese Dollar",
+            "currency_code": "SRD"
+        },
+        {
+            "country_code": "SWE",
+            "country_name": "Sweden",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Swedish Krona",
+            "currency_code": "SEK"
+        },
+        {
+            "country_code": "CHE",
+            "country_name": "Switzerland",
+            "who_region": "EUR",
+            "income_group": "High",
+            "currency_name": "Swiss Franc",
+            "currency_code": "CHF"
+        },
+        {
+            "country_code": "SYR",
+            "country_name": "Syria",
+            "who_region": "EMR",
+            "income_group": "Low",
+            "currency_name": "Syrian Pound",
+            "currency_code": "SYP"
+        },
+        {
+            "country_code": "TJK",
+            "country_name": "Tajikistan",
+            "who_region": "EUR",
+            "income_group": "Low",
+            "currency_name": "Somoni",
+            "currency_code": "TJS"
+        },
+        {
+            "country_code": "THA",
+            "country_name": "Thailand",
+            "who_region": "SEAR",
+            "income_group": "Upper-middle",
+            "currency_name": "Bhat",
+            "currency_code": "THB"
+        },
+        {
+            "country_code": "MKD",
+            "country_name": "The RepublicofNorth Macedonia",
+            "who_region": "EUR",
+            "Income Group(2018)": "Upper-middle",
+            "currency_name": "Denar",
+            "currency_code": "MKD"
+        },
+        {
+            "country_code": "TLS",
+            "country_name": "Timor-Leste",
+            "who_region": "SEAR",
+            "income_group": "Lower-middle",
+            "currency_name": "US Dollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "TGO",
+            "country_name": "Togo",
+            "who_region": "AFR",
+            "Income Group(2018)": "Low",
+            "currency_name": "CFA Franc",
+            "currency_code": "XOF"
+        },
+        {
+            "country_code": "TON",
+            "country_name": "Tonga",
+            "who_region": "WPR",
+            "Income Group(2018)": "Upper-middle",
+            "currency_name": "Pa'anga",
+            "currency_code": "TOP"
+        },
+        {
+            "country_code": "TTO",
+            "country_name": "Trinidad and Tobago",
+            "who_region": "AMR",
+            "Income Group(2018)": "High",
+            "currency_name": "Trinidad and TobagoDollar",
+            "currency_code": "TTD"
+        },
+        {
+            "country_code": "TUN",
+            "country_name": "Tunisia",
+            "who_region": "EMR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "Tunisian Dinar",
+            "currency_code": "TND"
+        },
+        {
+            "country_code": "TUR",
+            "country_name": "Turkey",
+            "who_region": "EUR",
+            "Income Group(2018)": "Upper-middle",
+            "currency_name": "Turkish Lira",
+            "currency_code": "TRY"
+        },
+        {
+            "country_code": "TKM",
+            "country_name": "Turkmenistan",
+            "who_region": "EUR",
+            "Income Group(2018)": "Upper-middle",
+            "currency_name": "New Manat",
+            "currency_code": "TMT"
+        },
+        {
+            "country_code": "TUV",
+            "country_name": "Tuvalu",
+            "who_region": "WPR",
+            "Income Group(2018)": "Upper-middle",
+            "currency_name": "Australian Dollar",
+            "currency_code": "AUD"
+        },
+        {
+            "country_code": "UGA",
+            "country_name": "Uganda",
+            "who_region": "AFR",
+            "Income Group(2018)": "Low",
+            "currency_name": "Ugandan shilling",
+            "currency_code": "UGS"
+        },
+        {
+            "country_code": "UKR",
+            "country_name": "Ukraine",
+            "who_region": "EUR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "Hryvnia",
+            "currency_code": "UAH"
+        },
+        {
+            "country_code": "ARE",
+            "country_name": "United Arab Emirates",
+            "who_region": "EMR",
+            "Income Group(2018)": "High",
+            "currency_name": "U.A.Emirates Dirham",
+            "currency_code": "AED"
+        },
+        {
+            "country_code": "GBR",
+            "country_name": "United Kingdom",
+            "who_region": "EUR",
+            "Income Group(2018)": "High",
+            "currency_name": "Pound Sterling",
+            "currency_code": "GBP"
+        },
+        {
+            "country_code": "TZA",
+            "country_name": "United RepublicofTanzania",
+            "who_region": "AFR",
+            "Income Group(2018)": "Low",
+            "currency_name": "Tanzanian Shilling",
+            "currency_code": "TZS"
+        },
+        {
+            "country_code": "USA",
+            "country_name": "United StatesofAmerica",
+            "who_region": "AMR",
+            "Income Group(2018)": "High",
+            "currency_name": "US Dollar",
+            "currency_code": "USD"
+        },
+        {
+            "country_code": "URY",
+            "country_name": "Uruguay",
+            "who_region": "AMR",
+            "Income Group(2018)": "High",
+            "currency_name": "Uruguayan Peso",
+            "currency_code": "UYU"
+        },
+        {
+            "country_code": "UZB",
+            "country_name": "Uzbekistan",
+            "who_region": "EUR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "Sum",
+            "currency_code": "UZS"
+        },
+        {
+            "country_code": "VUT",
+            "country_name": "Vanuatu",
+            "who_region": "WPR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "Vatu",
+            "currency_code": "VUV"
+        },
+        {
+            "country_code": "VEN",
+            "country_name": "Venezuela (Bolivarian Republicof)",
+            "who_region": "AMR",
+            "Income Group(2018)": "Upper-middle",
+            "currency_name": "Bolivar Fuerte",
+            "currency_code": "VEF"
+        },
+        {
+            "country_code": "VNM",
+            "country_name": "Viet Nam",
+            "who_region": "WPR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "Dong",
+            "currency_code": "VND"
+        },
+        {
+            "country_code": "YEM",
+            "country_name": "Yemen",
+            "who_region": "EMR",
+            "Income Group(2018)": "Low",
+            "currency_name": "Yemeni Rial",
+            "currency_code": "YER"
+        },
+        {
+            "country_code": "ZMB",
+            "country_name": "Zambia",
+            "who_region": "AFR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "Kwacha",
+            "currency_code": "ZMK"
+        },
+        {
+            "country_code": "ZWE",
+            "country_name": "Zimbabwe",
+            "who_region": "AFR",
+            "Income Group(2018)": "Lower-middle",
+            "currency_name": "USDollar",
+            "currency_code": "ZWD"
+        }
+    ]
+}

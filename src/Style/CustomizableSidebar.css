@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap");
+
+.customizable-sidebar {
+  background-color: #343a40;
+  height: 93vh;
+  width: 250px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1;
+  margin-top: 60px;
+  color: rgb(255, 255, 255);
+  font-family: "Source Sans Pro", sans-serif;
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding-bottom: 20px;
+}
+
+
+
+.title {
+  padding: 10px 5px;
+  text-align: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.check-boxes {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: white;
+  padding-inline-start: 40px;
+}
+
+.check-boxes p {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.check-boxes label {
+  display: flex;
+  align-items: center; /* Center vertically */
+}
+
+.check-boxes input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+/* Custom scrollbar styles */
+.customizable-sidebar::-webkit-scrollbar {
+  background: transparent;
+  width: 5px;
+}
+
+.customizable-sidebar::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 10px;
+}
+
+.customizable-sidebar:hover::-webkit-scrollbar-thumb {
+  background: lightgrey;
+}

@@ -1,0 +1,46 @@
+name: ReactJS CI/CD
+
+on:
+  push:
+    branches:
+      - main  # Trigger the workflow on push to main branch
+  pull_request:
+    branches:
+      - main  # Trigger on pull requests to main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu environment
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2  # Check out the repository code
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'  # Specify the version of Node.js
+
+    - name: Install dependencies
+      run: npm install  # Install project dependencies
+
+    - name: Run Lint
+      run: npm run lint  # Run linting (if you have lint scripts set up in package.json)
+
+    - name: Run Tests
+      run: npm test  # Run the tests
+
+    - name: Build Application
+      run: npm run build  # Build the React application
+
+    - name: Upload Build Artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: build
+        path: build/  # Path to the build output directory
+
+    - name: Initial Application
+      run: npm i
+
+    - name: start Application
+      run: npm start
